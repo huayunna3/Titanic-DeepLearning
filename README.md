@@ -1,6 +1,7 @@
 # 🚢 Titanic Survival Prediction with Deep Learning
 
-一个使用 **PyTorch** 构建的深度学习模型，用于预测泰坦尼克号乘客的生存情况。本项目并非简单的入门练习，而是包含了**独特的特征工程、动态训练策略和严谨的模型评估**，在Kaggle竞赛中0.9425 的成绩。
+一个使用 **PyTorch** 构建的深度学习模型，用于预测泰坦尼克号乘客的生存情况。包含了**独特的特征工程、动态训练策略和严谨的模型评估**，在Kaggle竞赛中0.9425 的成绩。
+kaggle：https://www.kaggle.com/code/yunnahua/titanic-deeplearning
 
 ## 📊 项目概述
 
